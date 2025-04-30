@@ -75,9 +75,9 @@ The Power BI dashboard consists of five key pages:
 
 ![Player Page](https://github.com/VanarasiNikhil/Ipl-Analysis/blob/main/Player%20performance.png)
 
-3. **Top Players Page**: Top 5 batsmen, bowlers, and allrounders with tooltips.  
+3. **Top Players Page**: Top 5 batsmen, bowlers, and allrounders with tooltips.
 
-![Top Players](https://github.com/VanarasiNikhil/Ipl-Analysis/blob/main/Top%20players.png)
+ ![Top Players](https://github.com/VanarasiNikhil/Ipl-Analysis/blob/main/Top%20players.png)
 
 4. **Team Performance Page**: Win/loss breakdown, win % and dynamic team logo.  
 
